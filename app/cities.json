@@ -1,0 +1,33 @@
+{
+	"cities": [
+		{
+			"title": "Barcelona",
+			"images": [
+				"http://botn.info/wp-content/uploads/2017/01/walks-barcelona-1.jpg",
+				"http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1476113065/barcelona-spain-waterfront-SPDEAL1016.jpg?itok=CKzwLZaO",
+				"http://www.ironman.com/~/media/581a16b5cdab4d7cb5cf0ac684c08e2a/barcelona-carousel5-2015.jpg?w=1600&h=980&c=1"
+			]
+		}, {
+			"title": "Lisboa",
+			"images": [
+				"https://cdn.civitatis.com/guias/lisboa/fotos/mirador-san-pedro-alcantara.jpg",
+				"https://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/TAP_PracaComercio_01e_CL-co.jpg",
+				"https://www.goldcar.es/assets/img/oficinas/background/LIS.jpg",
+				"http://www.vortexmag.net/wp-content/uploads/2015/03/Nelson.jpg"
+			]
+		}, {
+			"title": "Firenze",
+			"images": [
+				"http://www.freyasflorence.com/wp-content/uploads/2014/06/florence.png",
+				"https://lonelyplanetimages.imgix.net/mastheads/GettyImages-174463015_high.jpg?sharp=10&vib=20&w=1200"
+			]
+		}, {
+			"title": "İstanbul",
+			"images": [
+				"http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/1f/fy/p01ffyz3.jpg",
+				"https://cdn.getyourguide.com/niwziy2l9cvz/11kE38yqmiY0yAckYOsWMM/1c93ef0db44ea1456984d1485ebf21d0/istanbul-Galata-Tower-1112x630.jpg",
+				"https://cdn.getyourguide.com/niwziy2l9cvz/560hVYQxdKMk8AWs4ISGk6/589264e903e0f5f08b63fcc88792e3e4/istanbul-maidens-tower-1112x630.jpg"
+			]
+		}
+	]
+}
